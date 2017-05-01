@@ -1,0 +1,20 @@
+.ualbany-banner{
+  background-color: #563d7c;
+}
+.imgsize{
+  position: relative;
+  width: 100px;
+  height: 110px;
+  top:50%;
+  left: 25px;
+  vertical-align: middle;
+  display: inline-block;
+}
+.ualbany-banner p{
+  position: relative;
+  display: inline-block;
+  left: 50px;
+  vertical-align: middle;
+  color: #ffffff;
+  font-family: Trajan;
+}
