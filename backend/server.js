@@ -6,7 +6,7 @@ var path = require('path');
 resolvedPath = path.resolve('./frontend/html/app.html');
 styles = path.resolve("./frontend/css");
 js = path.resolve("./frontend/js");
-bootstrap = path.resolve("./node_modules/bootstrap/dist/css");
+bootstrap = path.resolve("./node_modules/bootstrap/");
 jquery = path.resolve("./node_modules/jquery/dist");
 images = path.resolve("./frontend/images");
 
